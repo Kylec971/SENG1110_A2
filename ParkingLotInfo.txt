@@ -1,0 +1,59 @@
+----------
+ParkingLot
+----------
+ID 1122
+Size S
+--------
+Vehicles
+--------
+ID 2254
+Type Car
+Entry 10
+Duration 2
+Fee 11.40
+
+----------
+ParkingLot
+----------
+ID 1236
+Size M
+--------
+Vehicles
+--------
+ID 1574
+Type Bicycle
+Entry 11
+Duration 3
+Fee 5.60
+
+ID 3569
+Type Motorcycle
+Entry 12
+Duration 1
+Fee 3.80
+
+----------
+ParkingLot
+----------
+ID 1436
+Size L
+--------
+Vehicles
+--------
+ID 1474
+Type Car
+Entry 9
+Duration 4
+Fee 26.40
+
+ID 3258
+Type Motorcycle
+Entry 8
+Duration 2
+Fee 10.40
+
+ID 4597
+Type Bicycle
+Entry 22
+Duration 1
+Fee 1.90
